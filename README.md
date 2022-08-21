@@ -2,7 +2,7 @@
 
 This is the page for all WINNERS to colarobrate on various team projects
 
-## Team 21 Engineer
+## Team 21 Engineers
 
 * Kingsford
 * Mercy
