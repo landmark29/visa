@@ -1,4 +1,4 @@
-# Team 21 VISA Application
+# Team 21 (WINNERS)
 
 This is the page for all WINNERS to colarobrate on various team projects
 
